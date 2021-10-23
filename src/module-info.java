@@ -1,0 +1,3 @@
+module castle {
+	exports castle;
+}
